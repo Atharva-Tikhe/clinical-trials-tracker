@@ -13,8 +13,8 @@
 	'NCT07608432',
 	'NCT05524883',
 	'NCT05996003',
+	'NCT06280209'
 	];
-	// 'NCT06280209'
 
 	type Trial = {
 		nctId: string;
